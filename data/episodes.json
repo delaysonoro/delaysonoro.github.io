@@ -1,0 +1,32 @@
+{
+  "episodes": [
+    {
+      "section": "Distorsión Rosa",
+      "title": "Le Butcherettes:",
+      "description": "La banda que convirtió el caos en teatro sonoro.",
+      "cover": "assets/episodes/le_butcherettes_DISTORSION ROSA.webp",
+      "url": "https://open.spotify.com/episode/3qKqvG4jVHNoV5SA7C2qM1?si=B1FhaD44Rpeok0nhLpw3Ew"
+    },
+    {
+      "section": "Archivo Vinyl",
+      "title": "Good News For People Who Love Bad News:",
+      "description": "El álbum que convirtió la tristeza en himno.",
+      "cover": "assets/episodes/modest_goodnews_ARCHIVOVINYL.webp",
+      "url": "https://open.spotify.com/episode/7GHUK92OBULDVG9Wvm3PSx?si=38a8214a3ef34f5f"
+    },
+    {
+      "section": "Interferencia Social",
+      "title": "Microtonalidad:",
+      "description": "El sonido que existía antes de TikTok.",
+      "cover": "assets/episodes/microtonalidad_INTERFERENCIA SOCIAL.webp",
+      "url": "https://open.spotify.com/episode/5xHzqqnvfVE9uJsvRIXUsT?si=799cfb770a174f31"
+    },
+    {
+      "section": "Delay Sonoro",
+      "title": "Groove Armada:",
+      "description": "El dúo que dio alma al house.",
+      "cover": "assets/episodes/groove_armada.webp",
+      "url": "https://open.spotify.com/episode/09e1Z0DEL8irR9IqGGo57r?si=2cfeb70013714abe"
+    }
+  ]
+}

@@ -1,6 +1,20 @@
 {
   "episodes": [
     {
+      "section": "Interferencia Social",
+      "title": "Una Banda no es una comuna Hippie...",
+      "description": "es una empresa emocional.",
+      "cover": "assets/episodes/banda_no_es_comuna_hippie_INTERFERNCIA SOCIAL.webp",
+      "url": "https://open.spotify.com/episode/5QYSPRt9KjCghUWQCDJyNc?si=TOscLKb-SQKY73-7SaOrkA"
+    },
+    {
+      "section": "Distorsión Rosa",
+      "title": "The Donnas:",
+      "description": "La banda que lo tenía todo.. y aun así no cambió nada.",
+      "cover": "assets/episodes/the_donnas_DISTORSION ROSA.webp",
+      "url": "https://open.spotify.com/episode/4mr2SJtcdysGP81OLfckzN?si=6lreeDRfTsuminPJXjKT9g"
+    },
+    {
       "section": "Distorsión Rosa",
       "title": "Le Butcherettes:",
       "description": "La banda que convirtió el caos en teatro sonoro.",
@@ -13,20 +27,6 @@
       "description": "El álbum que convirtió la tristeza en himno.",
       "cover": "assets/episodes/modest_goodnews_ARCHIVOVINYL.webp",
       "url": "https://open.spotify.com/episode/7GHUK92OBULDVG9Wvm3PSx?si=38a8214a3ef34f5f"
-    },
-    {
-      "section": "Interferencia Social",
-      "title": "Microtonalidad:",
-      "description": "El sonido que existía antes de TikTok.",
-      "cover": "assets/episodes/INTERFERENCIASOCIAL_microtonalidad.webp",
-      "url": "https://open.spotify.com/episode/5xHzqqnvfVE9uJsvRIXUsT?si=799cfb770a174f31"
-    },
-    {
-      "section": "Delay Sonoro",
-      "title": "Groove Armada:",
-      "description": "El dúo que dio alma al house.",
-      "cover": "assets/episodes/groove_armada.webp",
-      "url": "https://open.spotify.com/episode/09e1Z0DEL8irR9IqGGo57r?si=2cfeb70013714abe"
     }
   ]
 }

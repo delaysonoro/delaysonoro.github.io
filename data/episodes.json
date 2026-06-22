@@ -9,13 +9,6 @@
     },
     {
       "section": "Distorsión Rosa",
-      "title": "The Donnas:",
-      "description": "La banda que lo tenía todo.. y aun así no cambió nada.",
-      "cover": "assets/episodes/the_donnas_DISTORSIONROSA.webp",
-      "url": "https://open.spotify.com/episode/4mr2SJtcdysGP81OLfckzN?si=6lreeDRfTsuminPJXjKT9g"
-    },
-    {
-      "section": "Distorsión Rosa",
       "title": "Le Butcherettes:",
       "description": "La banda que convirtió el caos en teatro sonoro.",
       "cover": "assets/episodes/le_butcherettes_DISTORSION ROSA.webp",
@@ -27,6 +20,13 @@
       "description": "El álbum que convirtió la tristeza en himno.",
       "cover": "assets/episodes/modest_goodnews_ARCHIVOVINYL.webp",
       "url": "https://open.spotify.com/episode/7GHUK92OBULDVG9Wvm3PSx?si=38a8214a3ef34f5f"
+    },
+    {
+      "section": "Interferencia Social",
+      "title": "Microtonalidad:",
+      "description": "El sonido que existía hasta que tiktok lo descubrió.",
+      "cover": "assets/episodes/INTERFERENCIASOCIAL_microtonalidad",
+      "url": "https://open.spotify.com/episode/5xHzqqnvfVE9uJsvRIXUsT?si=1Qt7M2DPQoSRFSaP87LHvg"
     }
   ]
 }
